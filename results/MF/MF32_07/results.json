@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MF\\MF32_07.wav",
+  "duration_seconds": 2.1768125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      69
+    ],
+    "power": [
+      1025,
+      69
+    ],
+    "log": [
+      1025,
+      69
+    ],
+    "mel": [
+      128,
+      69
+    ]
+  },
+  "features": {
+    "centroid": 1971.3958272629277,
+    "rolloff": 3313.292572463768,
+    "flux": 17.06283950805664,
+    "mean_power": 1.00626802444458,
+    "peak_power": 972.7940063476562
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.176,
+    "n_frames": 69
+  }
+}

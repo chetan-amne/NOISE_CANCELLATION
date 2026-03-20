@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MB\\MB12_06.wav",
+  "duration_seconds": 2.16725,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      68
+    ],
+    "power": [
+      1025,
+      68
+    ],
+    "log": [
+      1025,
+      68
+    ],
+    "mel": [
+      128,
+      68
+    ]
+  },
+  "features": {
+    "centroid": 1670.782466661541,
+    "rolloff": 2958.5248161764707,
+    "flux": 19.70787811279297,
+    "mean_power": 1.3550543785095215,
+    "peak_power": 1232.3909912109375
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.144,
+    "n_frames": 68
+  }
+}

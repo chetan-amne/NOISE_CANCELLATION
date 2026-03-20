@@ -1,0 +1,300 @@
+File: CA01_01
+  Number of samples : 43814
+  Std Dev = 878.22      Mean = 0.067672
+  Max     = 6468        Min  = -4744
+  Active Level: 909.7 (Activity Factor: 93.2%)
+File: CA01_02
+  Number of samples : 44872
+  Std Dev = 753.02      Mean = 0.18606
+  Max     = 6787        Min  = -4031
+  Active Level: 769.3 (Activity Factor: 95.8%)
+File: CA01_03
+  Number of samples : 39886
+  Std Dev = 734.07      Mean = 0.29489
+  Max     = 6456        Min  = -4840
+  Active Level: 746.7 (Activity Factor: 96.7%)
+File: CA01_04
+  Number of samples : 49254
+  Std Dev = 815.77      Mean = 0.36387
+  Max     = 4411        Min  = -4021
+  Active Level: 830.2 (Activity Factor: 96.6%)
+File: CA01_05
+  Number of samples : 47743
+  Std Dev = 996.49      Mean = 0.35859
+  Max     = 7824        Min  = -7244
+  Active Level: 1023.6 (Activity Factor: 94.8%)
+File: CA01_06
+  Number of samples : 45779
+  Std Dev = 582.01      Mean = 0.48852
+  Max     = 4890        Min  = -2890
+  Active Level: 594.7 (Activity Factor: 95.8%)
+File: CA01_07
+  Number of samples : 48952
+  Std Dev = 866.84      Mean = -0.42546
+  Max     = 6866        Min  = -4368
+  Active Level: 897.9 (Activity Factor: 93.2%)
+File: CA01_08
+  Number of samples : 53484
+  Std Dev = 921.8       Mean = -0.32473
+  Max     = 8278        Min  = -5910
+  Active Level: 993.6 (Activity Factor: 86.1%)
+File: CA01_09
+  Number of samples : 48196
+  Std Dev = 1045.8      Mean = -0.28289
+  Max     = 6396        Min  = -5405
+  Active Level: 1138.0 (Activity Factor: 84.5%)
+File: CA01_10
+  Number of samples : 49556
+  Std Dev = 918.27      Mean = -0.1649
+  Max     = 7172        Min  = -5921
+  Active Level: 937.8 (Activity Factor: 95.9%)
+File: CA02_01
+  Number of samples : 37318
+  Std Dev = 1410.8      Mean = 0.42636
+  Max     = 6707        Min  = -6364
+  Active Level: 1462.7 (Activity Factor: 93.0%)
+File: CA02_02
+  Number of samples : 43513
+  Std Dev = 1068.8      Mean = -0.48903
+  Max     = 9175        Min  = -6834
+  Active Level: 1090.6 (Activity Factor: 96.0%)
+File: CA02_03
+  Number of samples : 61794
+  Std Dev = 965.42      Mean = -0.24938
+  Max     = 7208        Min  = -5378
+  Active Level: 1008.4 (Activity Factor: 91.7%)
+File: CA02_04
+  Number of samples : 47592
+  Std Dev = 1344.8      Mean = -0.19043
+  Max     = 9210        Min  = -6879
+  Active Level: 1440.7 (Activity Factor: 87.1%)
+File: CA02_05
+  Number of samples : 39131
+  Std Dev = 1146.5      Mean = -0.18415
+  Max     = 8996        Min  = -6448
+  Active Level: 1216.2 (Activity Factor: 88.9%)
+File: CA02_06
+  Number of samples : 46081
+  Std Dev = 1074.9      Mean = -0.17942
+  Max     = 10047       Min  = -7731
+  Active Level: 1096.6 (Activity Factor: 96.1%)
+File: CA02_07
+  Number of samples : 45930
+  Std Dev = 1204.2      Mean = -0.17089
+  Max     = 9920        Min  = -6947
+  Active Level: 1276.4 (Activity Factor: 89.0%)
+File: CA02_08
+  Number of samples : 44419
+  Std Dev = 1434.1      Mean = -0.021027
+  Max     = 11426       Min  = -8869
+  Active Level: 1492.0 (Activity Factor: 92.4%)
+File: CA02_09
+  Number of samples : 51671
+  Std Dev = 1334.8      Mean = -0.044996
+  Max     = 12755       Min  = -9304
+  Active Level: 1395.3 (Activity Factor: 91.5%)
+File: CA02_10
+  Number of samples : 52275
+  Std Dev = 1334.3      Mean = 0.27897
+  Max     = 7629        Min  = -6773
+  Active Level: 1451.4 (Activity Factor: 84.5%)
+File: CA03_01
+  Number of samples : 51067
+  Std Dev = 1111        Mean = -0.40071
+  Max     = 7850        Min  = -5483
+  Active Level: 1224.6 (Activity Factor: 82.3%)
+File: CA03_02
+  Number of samples : 50613
+  Std Dev = 970.93      Mean = -0.19714
+  Max     = 7755        Min  = -6856
+  Active Level: 990.0 (Activity Factor: 96.2%)
+File: CA03_03
+  Number of samples : 51822
+  Std Dev = 1112.9      Mean = -0.11408
+  Max     = 10352       Min  = -6925
+  Active Level: 1163.9 (Activity Factor: 91.4%)
+File: CA03_04
+  Number of samples : 49707
+  Std Dev = 1220        Mean = -0.00012071
+  Max     = 10345       Min  = -6593
+  Active Level: 1291.6 (Activity Factor: 89.2%)
+File: CA03_05
+  Number of samples : 51067
+  Std Dev = 1208.9      Mean = 0.15172
+  Max     = 9007        Min  = -7553
+  Active Level: 1236.0 (Activity Factor: 95.7%)
+File: CA03_06
+  Number of samples : 47894
+  Std Dev = 957.36      Mean = 0.21395
+  Max     = 6673        Min  = -5243
+  Active Level: 1025.5 (Activity Factor: 87.2%)
+File: CA03_07
+  Number of samples : 45628
+  Std Dev = 1079.5      Mean = 0.20494
+  Max     = 7073        Min  = -4894
+  Active Level: 1120.3 (Activity Factor: 92.9%)
+File: CA03_08
+  Number of samples : 48045
+  Std Dev = 1222.2      Mean = 0.13177
+  Max     = 7435        Min  = -5211
+  Active Level: 1256.3 (Activity Factor: 94.6%)
+File: CA03_09
+  Number of samples : 52272
+  Std Dev = 841.92      Mean = 0.39128
+  Max     = 5694        Min  = -5788
+  Active Level: 854.5 (Activity Factor: 97.1%)
+File: CA03_10
+  Number of samples : 38526
+  Std Dev = 1120.2      Mean = 0.43194
+  Max     = 8503        Min  = -6299
+  Active Level: 1157.9 (Activity Factor: 93.6%)
+File: CA04_01
+  Number of samples : 38829
+  Std Dev = 1159.8      Mean = 0.31046
+  Max     = 6607        Min  = -4901
+  Active Level: 1204.7 (Activity Factor: 92.7%)
+File: CA04_02
+  Number of samples : 43210
+  Std Dev = 934.61      Mean = 0.49373
+  Max     = 8078        Min  = -4728
+  Active Level: 968.3 (Activity Factor: 93.2%)
+File: CA04_03
+  Number of samples : 45477
+  Std Dev = 1017.1      Mean = -0.39598
+  Max     = 8678        Min  = -5673
+  Active Level: 1052.0 (Activity Factor: 93.5%)
+File: CA04_04
+  Number of samples : 44268
+  Std Dev = 994.32      Mean = -0.33622
+  Max     = 8515        Min  = -7053
+  Active Level: 1027.2 (Activity Factor: 93.7%)
+File: CA04_05
+  Number of samples : 41397
+  Std Dev = 1168.8      Mean = -0.20922
+  Max     = 7632        Min  = -6349
+  Active Level: 1240.5 (Activity Factor: 88.8%)
+File: CA04_06
+  Number of samples : 54542
+  Std Dev = 1135.4      Mean = -0.054857
+  Max     = 11310       Min  = -7667
+  Active Level: 1217.2 (Activity Factor: 87.0%)
+File: CA04_07
+  Number of samples : 49556
+  Std Dev = 1026.7      Mean = 0.049116
+  Max     = 7522        Min  = -6457
+  Active Level: 1122.9 (Activity Factor: 83.6%)
+File: CA04_08
+  Number of samples : 51369
+  Std Dev = 1287.7      Mean = 0.10331
+  Max     = 9066        Min  = -5952
+  Active Level: 1386.6 (Activity Factor: 86.2%)
+File: CA04_09
+  Number of samples : 48347
+  Std Dev = 1329.6      Mean = 0.27385
+  Max     = 8807        Min  = -6610
+  Active Level: 1414.6 (Activity Factor: 88.3%)
+File: CA04_10
+  Number of samples : 38224
+  Std Dev = 1574.2      Mean = 0.19653
+  Max     = 7630        Min  = -8118
+  Active Level: 1667.3 (Activity Factor: 89.1%)
+File: CA05_01
+  Number of samples : 53937
+  Std Dev = 1208.3      Mean = -0.14671
+  Max     = 6539        Min  = -5453
+  Active Level: 1235.9 (Activity Factor: 95.6%)
+File: CA05_02
+  Number of samples : 50009
+  Std Dev = 1099.8      Mean = 0.027215
+  Max     = 8261        Min  = -6891
+  Active Level: 1130.5 (Activity Factor: 94.6%)
+File: CA05_03
+  Number of samples : 47743
+  Std Dev = 1104.4      Mean = 0.29225
+  Max     = 9022        Min  = -7613
+  Active Level: 1157.7 (Activity Factor: 91.0%)
+File: CA05_04
+  Number of samples : 50915
+  Std Dev = 1476.5      Mean = 0.46778
+  Max     = 11041       Min  = -7280
+  Active Level: 1537.9 (Activity Factor: 92.2%)
+File: CA05_05
+  Number of samples : 45023
+  Std Dev = 1345.5      Mean = -0.39429
+  Max     = 9311        Min  = -6044
+  Active Level: 1390.9 (Activity Factor: 93.6%)
+File: CA05_06
+  Number of samples : 46232
+  Std Dev = 1114.5      Mean = -0.41006
+  Max     = 7133        Min  = -5578
+  Active Level: 1156.0 (Activity Factor: 92.9%)
+File: CA05_07
+  Number of samples : 45627
+  Std Dev = 1411.2      Mean = -0.2847
+  Max     = 9071        Min  = -9615
+  Active Level: 1474.3 (Activity Factor: 91.6%)
+File: CA05_08
+  Number of samples : 36714
+  Std Dev = 1312.6      Mean = -0.10217
+  Max     = 10118       Min  = -8916
+  Active Level: 1354.0 (Activity Factor: 94.0%)
+File: CA05_09
+  Number of samples : 40189
+  Std Dev = 1209.8      Mean = -0.14427
+  Max     = 12949       Min  = -10043
+  Active Level: 1240.3 (Activity Factor: 95.1%)
+File: CA05_10
+  Number of samples : 42757
+  Std Dev = 1135.2      Mean = -0.095142
+  Max     = 9519        Min  = -6804
+  Active Level: 1161.8 (Activity Factor: 95.5%)
+File: CA06_01
+  Number of samples : 41246
+  Std Dev = 1099.5      Mean = -0.16773
+  Max     = 9826        Min  = -8352
+  Active Level: 1137.9 (Activity Factor: 93.4%)
+File: CA06_02
+  Number of samples : 55146
+  Std Dev = 1247.4      Mean = 0.46165
+  Max     = 9105        Min  = -9554
+  Active Level: 1356.4 (Activity Factor: 84.6%)
+File: CA06_03
+  Number of samples : 47743
+  Std Dev = 1264.6      Mean = -0.25587
+  Max     = 12283       Min  = -6606
+  Active Level: 1353.7 (Activity Factor: 87.3%)
+File: CA06_04
+  Number of samples : 45174
+  Std Dev = 1555.1      Mean = -0.27104
+  Max     = 10787       Min  = -10705
+  Active Level: 1670.7 (Activity Factor: 86.6%)
+File: CA06_05
+  Number of samples : 59225
+  Std Dev = 1441.9      Mean = -0.23127
+  Max     = 13131       Min  = -8585
+  Active Level: 1579.4 (Activity Factor: 83.3%)
+File: CA06_06
+  Number of samples : 51822
+  Std Dev = 1680.4      Mean = 0.0090888
+  Max     = 15273       Min  = -8164
+  Active Level: 1789.8 (Activity Factor: 88.1%)
+File: CA06_07
+  Number of samples : 49103
+  Std Dev = 1293.7      Mean = 0.02843
+  Max     = 15539       Min  = -9497
+  Active Level: 1397.3 (Activity Factor: 85.7%)
+File: CA06_08
+  Number of samples : 44570
+  Std Dev = 1191.8      Mean = -0.010096
+  Max     = 13090       Min  = -7621
+  Active Level: 1252.0 (Activity Factor: 90.6%)
+File: CA06_09
+  Number of samples : 50613
+  Std Dev = 1346.1      Mean = 0.10535
+  Max     = 7837        Min  = -6391
+  Active Level: 1436.6 (Activity Factor: 87.8%)
+File: CA06_10
+  Number of samples : 44117
+  Std Dev = 1468.7      Mean = 0.13641
+  Max     = 11518       Min  = -8177
+  Active Level: 1500.4 (Activity Factor: 95.8%)

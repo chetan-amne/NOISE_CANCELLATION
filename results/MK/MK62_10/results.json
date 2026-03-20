@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MK\\MK62_10.wav",
+  "duration_seconds": 1.939125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      61
+    ],
+    "power": [
+      1025,
+      61
+    ],
+    "log": [
+      1025,
+      61
+    ],
+    "mel": [
+      128,
+      61
+    ]
+  },
+  "features": {
+    "centroid": 1525.575588914768,
+    "rolloff": 2759.22131147541,
+    "flux": 20.219709396362305,
+    "mean_power": 1.4263920783996582,
+    "peak_power": 785.7427368164062
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 1.92,
+    "n_frames": 61
+  }
+}

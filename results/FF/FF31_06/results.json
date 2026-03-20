@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FF\\FF31_06.wav",
+  "duration_seconds": 3.3935,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      107
+    ],
+    "power": [
+      1025,
+      107
+    ],
+    "log": [
+      1025,
+      107
+    ],
+    "mel": [
+      128,
+      107
+    ]
+  },
+  "features": {
+    "centroid": 2225.8529583382538,
+    "rolloff": 3671.2178738317757,
+    "flux": 18.14707374572754,
+    "mean_power": 0.9632226824760437,
+    "peak_power": 1114.2073974609375
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 3.392,
+    "n_frames": 107
+  }
+}

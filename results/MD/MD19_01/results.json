@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MD\\MD19_01.wav",
+  "duration_seconds": 2.35125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      74
+    ],
+    "power": [
+      1025,
+      74
+    ],
+    "log": [
+      1025,
+      74
+    ],
+    "mel": [
+      128,
+      74
+    ]
+  },
+  "features": {
+    "centroid": 1713.1184834010257,
+    "rolloff": 2973.8175675675675,
+    "flux": 15.509907722473145,
+    "mean_power": 0.8323656320571899,
+    "peak_power": 884.8089599609375
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.336,
+    "n_frames": 74
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FG\\FG38_05.wav",
+  "duration_seconds": 2.0341875,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      64
+    ],
+    "power": [
+      1025,
+      64
+    ],
+    "log": [
+      1025,
+      64
+    ],
+    "mel": [
+      128,
+      64
+    ]
+  },
+  "features": {
+    "centroid": 2064.900358930781,
+    "rolloff": 3691.40625,
+    "flux": 21.442792892456055,
+    "mean_power": 1.4108482599258423,
+    "peak_power": 1692.3115234375
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.016,
+    "n_frames": 64
+  }
+}

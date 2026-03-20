@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MH\\MH47_01.wav",
+  "duration_seconds": 2.19075,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      69
+    ],
+    "power": [
+      1025,
+      69
+    ],
+    "log": [
+      1025,
+      69
+    ],
+    "mel": [
+      128,
+      69
+    ]
+  },
+  "features": {
+    "centroid": 1783.7682394627147,
+    "rolloff": 3304.6875,
+    "flux": 13.37077522277832,
+    "mean_power": 0.6783802509307861,
+    "peak_power": 1146.7608642578125
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.176,
+    "n_frames": 69
+  }
+}

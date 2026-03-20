@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MI\\MI51_07.wav",
+  "duration_seconds": 3.4183125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      107
+    ],
+    "power": [
+      1025,
+      107
+    ],
+    "log": [
+      1025,
+      107
+    ],
+    "mel": [
+      128,
+      107
+    ]
+  },
+  "features": {
+    "centroid": 2101.832110105694,
+    "rolloff": 3581.191588785047,
+    "flux": 15.77804946899414,
+    "mean_power": 1.231295108795166,
+    "peak_power": 2631.959228515625
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 3.392,
+    "n_frames": 107
+  }
+}

@@ -1,0 +1,30 @@
+File: CB01_01
+  Number of samples : 56939
+  Std Dev = 243.55      Mean = 0.10536
+  Max     = 2188        Min  = -2084
+  Active Level: 254.4 (Activity Factor: 91.7%)
+File: CB02_06
+  Number of samples : 54535
+  Std Dev = 203.52      Mean = -0.41177
+  Max     = 1873        Min  = -1357
+  Active Level: 208.8 (Activity Factor: 95.0%)
+File: CB02_09
+  Number of samples : 56488
+  Std Dev = 136.84      Mean = 0.3015
+  Max     = 1152        Min  = -782
+  Active Level: 140.4 (Activity Factor: 95.0%)
+File: CB14_04
+  Number of samples : 41014
+  Std Dev = 219.09      Mean = -0.43975
+  Max     = 1391        Min  = -1227
+  Active Level: 225.5 (Activity Factor: 94.4%)
+File: CB29_01
+  Number of samples : 76620
+  Std Dev = 262.52      Mean = 0.21479
+  Max     = 2028        Min  = -1713
+  Active Level: 283.4 (Activity Factor: 85.8%)
+File: CB66_01
+  Number of samples : 66103
+  Std Dev = 209.89      Mean = 0.17703
+  Max     = 1541        Min  = -1181
+  Active Level: 229.2 (Activity Factor: 83.9%)

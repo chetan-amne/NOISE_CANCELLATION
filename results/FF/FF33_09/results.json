@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FF\\FF33_09.wav",
+  "duration_seconds": 2.718625,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      85
+    ],
+    "power": [
+      1025,
+      85
+    ],
+    "log": [
+      1025,
+      85
+    ],
+    "mel": [
+      128,
+      85
+    ]
+  },
+  "features": {
+    "centroid": 1891.361313213609,
+    "rolloff": 3179.5036764705883,
+    "flux": 18.554479598999023,
+    "mean_power": 1.3263143301010132,
+    "peak_power": 867.8544311523438
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.688,
+    "n_frames": 85
+  }
+}

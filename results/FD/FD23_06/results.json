@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FD\\FD23_06.wav",
+  "duration_seconds": 1.9735625,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      62
+    ],
+    "power": [
+      1025,
+      62
+    ],
+    "log": [
+      1025,
+      62
+    ],
+    "mel": [
+      128,
+      62
+    ]
+  },
+  "features": {
+    "centroid": 1686.2698167377412,
+    "rolloff": 2965.8518145161293,
+    "flux": 31.844928741455078,
+    "mean_power": 2.8411865234375,
+    "peak_power": 2707.82470703125
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 1.952,
+    "n_frames": 62
+  }
+}

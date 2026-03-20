@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FK\\FK64_05.wav",
+  "duration_seconds": 2.3418125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      74
+    ],
+    "power": [
+      1025,
+      74
+    ],
+    "log": [
+      1025,
+      74
+    ],
+    "mel": [
+      128,
+      74
+    ]
+  },
+  "features": {
+    "centroid": 1804.9328468460174,
+    "rolloff": 3273.2263513513512,
+    "flux": 8.91568660736084,
+    "mean_power": 0.29407772421836853,
+    "peak_power": 819.8170776367188
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.336,
+    "n_frames": 74
+  }
+}

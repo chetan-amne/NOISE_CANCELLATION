@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\CA\\CA01_09.wav",
+  "duration_seconds": 3.01225,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      95
+    ],
+    "power": [
+      1025,
+      95
+    ],
+    "log": [
+      1025,
+      95
+    ],
+    "mel": [
+      128,
+      95
+    ]
+  },
+  "features": {
+    "centroid": 2227.249165383374,
+    "rolloff": 3718.1743421052633,
+    "flux": 13.714869499206543,
+    "mean_power": 0.774428129196167,
+    "peak_power": 1792.371337890625
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 3.008,
+    "n_frames": 95
+  }
+}

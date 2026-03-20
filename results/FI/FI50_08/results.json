@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FI\\FI50_08.wav",
+  "duration_seconds": 1.6525,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      52
+    ],
+    "power": [
+      1025,
+      52
+    ],
+    "log": [
+      1025,
+      52
+    ],
+    "mel": [
+      128,
+      52
+    ]
+  },
+  "features": {
+    "centroid": 2050.2931825565947,
+    "rolloff": 3619.2908653846152,
+    "flux": 24.583656311035156,
+    "mean_power": 1.7658472061157227,
+    "peak_power": 915.4867553710938
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 1.632,
+    "n_frames": 52
+  }
+}

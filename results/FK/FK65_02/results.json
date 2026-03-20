@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FK\\FK65_02.wav",
+  "duration_seconds": 1.9074375,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      60
+    ],
+    "power": [
+      1025,
+      60
+    ],
+    "log": [
+      1025,
+      60
+    ],
+    "mel": [
+      128,
+      60
+    ]
+  },
+  "features": {
+    "centroid": 2055.488273476528,
+    "rolloff": 3651.171875,
+    "flux": 11.590056419372559,
+    "mean_power": 0.45489034056663513,
+    "peak_power": 389.1342468261719
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 1.888,
+    "n_frames": 60
+  }
+}

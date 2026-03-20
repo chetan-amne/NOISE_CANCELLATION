@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MD\\MD24_04.wav",
+  "duration_seconds": 3.4938125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      110
+    ],
+    "power": [
+      1025,
+      110
+    ],
+    "log": [
+      1025,
+      110
+    ],
+    "mel": [
+      128,
+      110
+    ]
+  },
+  "features": {
+    "centroid": 2120.8658044461927,
+    "rolloff": 3531.8892045454545,
+    "flux": 17.56148338317871,
+    "mean_power": 1.0342600345611572,
+    "peak_power": 1492.8800048828125
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 3.488,
+    "n_frames": 110
+  }
+}

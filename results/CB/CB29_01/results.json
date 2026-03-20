@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\CB\\CB29_01.wav",
+  "duration_seconds": 4.78875,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      150
+    ],
+    "power": [
+      1025,
+      150
+    ],
+    "log": [
+      1025,
+      150
+    ],
+    "mel": [
+      128,
+      150
+    ]
+  },
+  "features": {
+    "centroid": 2030.3234736196157,
+    "rolloff": 3647.0833333333335,
+    "flux": 3.380951404571533,
+    "mean_power": 0.04912974312901497,
+    "peak_power": 99.40516662597656
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 4.768,
+    "n_frames": 150
+  }
+}

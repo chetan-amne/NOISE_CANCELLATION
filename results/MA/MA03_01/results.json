@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MA\\MA03_01.wav",
+  "duration_seconds": 1.7015,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      54
+    ],
+    "power": [
+      1025,
+      54
+    ],
+    "log": [
+      1025,
+      54
+    ],
+    "mel": [
+      128,
+      54
+    ]
+  },
+  "features": {
+    "centroid": 1441.8500098571358,
+    "rolloff": 2540.509259259259,
+    "flux": 18.11372184753418,
+    "mean_power": 1.1531238555908203,
+    "peak_power": 1631.2467041015625
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 1.696,
+    "n_frames": 54
+  }
+}
