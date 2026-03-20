@@ -1,0 +1,43 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data folders (large files)
+16k-LP7/
+results/
+*.wav
+*.mp3
+
+# Test outputs
+test_output.png
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OSX
+.AppleDouble
+.LSOverride
+
+# Windows
+$RECYCLE.BIN/
