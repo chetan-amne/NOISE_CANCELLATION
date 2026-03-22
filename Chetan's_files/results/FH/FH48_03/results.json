@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FH\\FH48_03.wav",
+  "duration_seconds": 2.51175,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      79
+    ],
+    "power": [
+      1025,
+      79
+    ],
+    "log": [
+      1025,
+      79
+    ],
+    "mel": [
+      128,
+      79
+    ]
+  },
+  "features": {
+    "centroid": 2270.8281374922376,
+    "rolloff": 3638.4493670886077,
+    "flux": 21.97673797607422,
+    "mean_power": 2.109431266784668,
+    "peak_power": 2633.639892578125
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.496,
+    "n_frames": 79
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FC\\FC17_03.wav",
+  "duration_seconds": 2.1718125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      68
+    ],
+    "power": [
+      1025,
+      68
+    ],
+    "log": [
+      1025,
+      68
+    ],
+    "mel": [
+      128,
+      68
+    ]
+  },
+  "features": {
+    "centroid": 2045.85921469877,
+    "rolloff": 3556.1810661764707,
+    "flux": 12.703306198120117,
+    "mean_power": 0.6257596015930176,
+    "peak_power": 592.871337890625
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.144,
+    "n_frames": 68
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\ML\\ML69_10.wav",
+  "duration_seconds": 2.1529375,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      68
+    ],
+    "power": [
+      1025,
+      68
+    ],
+    "log": [
+      1025,
+      68
+    ],
+    "mel": [
+      128,
+      68
+    ]
+  },
+  "features": {
+    "centroid": 1966.8273508273119,
+    "rolloff": 3405.1011029411766,
+    "flux": 13.73399829864502,
+    "mean_power": 0.5597978234291077,
+    "peak_power": 1287.609130859375
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.144,
+    "n_frames": 68
+  }
+}

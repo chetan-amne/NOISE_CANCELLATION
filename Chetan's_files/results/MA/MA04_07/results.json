@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MA\\MA04_07.wav",
+  "duration_seconds": 2.086875,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      66
+    ],
+    "power": [
+      1025,
+      66
+    ],
+    "log": [
+      1025,
+      66
+    ],
+    "mel": [
+      128,
+      66
+    ]
+  },
+  "features": {
+    "centroid": 1929.0805632174988,
+    "rolloff": 3441.6429924242425,
+    "flux": 17.191478729248047,
+    "mean_power": 1.1864781379699707,
+    "peak_power": 1004.1976318359375
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.08,
+    "n_frames": 66
+  }
+}

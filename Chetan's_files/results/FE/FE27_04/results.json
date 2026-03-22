@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FE\\FE27_04.wav",
+  "duration_seconds": 2.19075,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      69
+    ],
+    "power": [
+      1025,
+      69
+    ],
+    "log": [
+      1025,
+      69
+    ],
+    "mel": [
+      128,
+      69
+    ]
+  },
+  "features": {
+    "centroid": 1638.218845323399,
+    "rolloff": 2871.376811594203,
+    "flux": 18.841142654418945,
+    "mean_power": 1.4170976877212524,
+    "peak_power": 2119.108154296875
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.176,
+    "n_frames": 69
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FI\\FI54_04.wav",
+  "duration_seconds": 2.1340625,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      67
+    ],
+    "power": [
+      1025,
+      67
+    ],
+    "log": [
+      1025,
+      67
+    ],
+    "mel": [
+      128,
+      67
+    ]
+  },
+  "features": {
+    "centroid": 2321.8936242767436,
+    "rolloff": 3968.16697761194,
+    "flux": 22.23487091064453,
+    "mean_power": 1.6420619487762451,
+    "peak_power": 1218.458251953125
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.112,
+    "n_frames": 67
+  }
+}

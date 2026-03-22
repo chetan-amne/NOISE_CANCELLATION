@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FL\\FL70_08.wav",
+  "duration_seconds": 2.0246875,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      64
+    ],
+    "power": [
+      1025,
+      64
+    ],
+    "log": [
+      1025,
+      64
+    ],
+    "mel": [
+      128,
+      64
+    ]
+  },
+  "features": {
+    "centroid": 1751.6714045997867,
+    "rolloff": 3020.8740234375,
+    "flux": 23.72896957397461,
+    "mean_power": 2.2386415004730225,
+    "peak_power": 3667.957763671875
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.016,
+    "n_frames": 64
+  }
+}

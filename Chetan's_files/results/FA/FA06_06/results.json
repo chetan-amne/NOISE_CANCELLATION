@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FA\\FA06_06.wav",
+  "duration_seconds": 2.4714375,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      78
+    ],
+    "power": [
+      1025,
+      78
+    ],
+    "log": [
+      1025,
+      78
+    ],
+    "mel": [
+      128,
+      78
+    ]
+  },
+  "features": {
+    "centroid": 1624.8285329182384,
+    "rolloff": 2804.8878205128203,
+    "flux": 26.80296516418457,
+    "mean_power": 2.8811986446380615,
+    "peak_power": 3021.0107421875
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.464,
+    "n_frames": 78
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MH\\MH44_01.wav",
+  "duration_seconds": 2.285125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      72
+    ],
+    "power": [
+      1025,
+      72
+    ],
+    "log": [
+      1025,
+      72
+    ],
+    "mel": [
+      128,
+      72
+    ]
+  },
+  "features": {
+    "centroid": 2263.2155554460232,
+    "rolloff": 4043.8368055555557,
+    "flux": 11.721128463745117,
+    "mean_power": 0.4549715220928192,
+    "peak_power": 594.3273315429688
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.272,
+    "n_frames": 72
+  }
+}

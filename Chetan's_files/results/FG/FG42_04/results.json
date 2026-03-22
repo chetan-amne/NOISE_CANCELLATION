@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FG\\FG42_04.wav",
+  "duration_seconds": 2.07225,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      65
+    ],
+    "power": [
+      1025,
+      65
+    ],
+    "log": [
+      1025,
+      65
+    ],
+    "mel": [
+      128,
+      65
+    ]
+  },
+  "features": {
+    "centroid": 1710.2520850902952,
+    "rolloff": 2889.0625,
+    "flux": 37.52334213256836,
+    "mean_power": 4.58504056930542,
+    "peak_power": 3594.978759765625
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.048,
+    "n_frames": 65
+  }
+}

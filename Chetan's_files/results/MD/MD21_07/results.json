@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MD\\MD21_07.wav",
+  "duration_seconds": 2.502375,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      79
+    ],
+    "power": [
+      1025,
+      79
+    ],
+    "log": [
+      1025,
+      79
+    ],
+    "mel": [
+      128,
+      79
+    ]
+  },
+  "features": {
+    "centroid": 1883.1536181324407,
+    "rolloff": 3263.0537974683543,
+    "flux": 14.757604598999023,
+    "mean_power": 0.6830185055732727,
+    "peak_power": 553.0241088867188
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.496,
+    "n_frames": 79
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MG\\MG39_08.wav",
+  "duration_seconds": 2.4144375,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      76
+    ],
+    "power": [
+      1025,
+      76
+    ],
+    "log": [
+      1025,
+      76
+    ],
+    "mel": [
+      128,
+      76
+    ]
+  },
+  "features": {
+    "centroid": 1974.478762069702,
+    "rolloff": 3148.5402960526317,
+    "flux": 23.209280014038086,
+    "mean_power": 1.8842949867248535,
+    "peak_power": 2394.731689453125
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.4,
+    "n_frames": 76
+  }
+}

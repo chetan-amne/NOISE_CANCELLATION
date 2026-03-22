@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FG\\FG37_02.wav",
+  "duration_seconds": 2.13875,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      67
+    ],
+    "power": [
+      1025,
+      67
+    ],
+    "log": [
+      1025,
+      67
+    ],
+    "mel": [
+      128,
+      67
+    ]
+  },
+  "features": {
+    "centroid": 1993.1930567087604,
+    "rolloff": 3616.60447761194,
+    "flux": 22.34061622619629,
+    "mean_power": 1.902632474899292,
+    "peak_power": 2598.592529296875
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.112,
+    "n_frames": 67
+  }
+}

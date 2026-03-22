@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MG\\MG42_07.wav",
+  "duration_seconds": 2.6140625,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      82
+    ],
+    "power": [
+      1025,
+      82
+    ],
+    "log": [
+      1025,
+      82
+    ],
+    "mel": [
+      128,
+      82
+    ]
+  },
+  "features": {
+    "centroid": 2255.202709659801,
+    "rolloff": 3800.3048780487807,
+    "flux": 20.155780792236328,
+    "mean_power": 1.4761736392974854,
+    "peak_power": 3015.10888671875
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.592,
+    "n_frames": 82
+  }
+}

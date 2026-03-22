@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\FL\\FL68_05.wav",
+  "duration_seconds": 2.728125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      86
+    ],
+    "power": [
+      1025,
+      86
+    ],
+    "log": [
+      1025,
+      86
+    ],
+    "mel": [
+      128,
+      86
+    ]
+  },
+  "features": {
+    "centroid": 2595.1873173994077,
+    "rolloff": 4336.028343023256,
+    "flux": 14.255006790161133,
+    "mean_power": 0.9869182705879211,
+    "peak_power": 3874.532958984375
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 2.72,
+    "n_frames": 86
+  }
+}

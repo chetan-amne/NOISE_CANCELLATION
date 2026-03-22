@@ -1,0 +1,45 @@
+{
+  "file_path": "16k-LP7\\MJ\\MJ57_10.wav",
+  "duration_seconds": 1.920125,
+  "sample_rate": 16000,
+  "stft_params": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048,
+    "window": "hann"
+  },
+  "spectrogram_shapes": {
+    "magnitude": [
+      1025,
+      61
+    ],
+    "power": [
+      1025,
+      61
+    ],
+    "log": [
+      1025,
+      61
+    ],
+    "mel": [
+      128,
+      61
+    ]
+  },
+  "features": {
+    "centroid": 1750.8931184586588,
+    "rolloff": 3144.723360655738,
+    "flux": 14.379104614257812,
+    "mean_power": 0.9589849710464478,
+    "peak_power": 1681.5633544921875
+  },
+  "frequency_range": {
+    "min_hz": 0.0,
+    "max_hz": 8000.0,
+    "n_freq_bins": 1025
+  },
+  "time_range": {
+    "duration_s": 1.92,
+    "n_frames": 61
+  }
+}
